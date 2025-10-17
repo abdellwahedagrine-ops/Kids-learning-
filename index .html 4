@@ -1,0 +1,100 @@
+الأرقام
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>تعلم الأرقام العربية</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #f0f8ff;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #ff69b4;
+      margin-bottom: 30px;
+    }
+    .number-card {
+      display: inline-block;
+      background: #fff;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      margin: 10px;
+      padding: 20px;
+      width: 120px;
+      transition: transform 0.3s;
+    }
+    .number-card:hover {
+      transform: scale(1.1);
+    }
+    .number {
+      font-size: 50px;
+      font-weight: bold;
+      color: #4b0082;
+      margin-bottom: 10px;
+    }
+    .example {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>تعلم الأرقام العربية</h1>
+
+  <div class="number-card" style="background-color: #ffe4e1;">
+    <div class="number">0</div>٠</div>
+    <div class="example">صفر</div>
+  </div>
+
+  <div class="number-card" style="background-color: #e0ffff;">
+    <div class="number">1</div>
+    <div class="example">واحد</div>
+  </div><div class="number-card" style="background-color: #fafad2;">
+    <div class="number">2</div>
+    <div class="example">اثنان</div>
+  </div>
+
+  <div class="number-card" style="background-color: #d1ffd1;">
+    <div class="number">3</div>
+    <div class="example">ثلاثة</div>
+  </div>
+
+  <div class="number-card" style="background-color: #ffe4b5;">
+    <div class="number">4</div>
+    <div class="example">أربعة</div>
+  </div>
+
+  <div class="number-card" style="background-color: #ffb6c1;">
+    <div class="number">5</div>
+    <div class="example">خمسة</div>
+  </div>
+
+  <div class="number-card" style="background-color: #add8e6;">
+    <div class="number">6</div>
+    <div class="example">ستة</div>
+  </div>
+
+  <div class="number-card" style="background-color: #ffd700;">
+    <div class="number">7</div>
+    <div class="example">سبعة</div>
+  </div>
+
+  <div class="number-card" style="background-color: #e6e6fa;">
+    <div class="number">8</div>
+    <div class="example">ثمانية</div>
+  </div>
+
+  <div class="number-card" style="background-color: #ffe4e1;">
+    <div class="number">9</div>
+    <div class="example">تسعة</div>
+  </div>
+  <div class="number-card" style="background-color: #ffe4e1;">
+    <div class="number">10</div>
+    <div class="example">عشرة</div></div>
+  </div>
+  
+</body>
+</html>

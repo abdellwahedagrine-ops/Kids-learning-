@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>ألعب وأتعلم</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background: linear-gradient(to bottom, #fceabb, #f8b500);
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    h1 {
+      color: #ff4081;
+      margin-top: 30px;
+      font-size: 3em;
+      text-shadow: 2px 2px 5px #fff;
+    }
+
+    .menu {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 40px;
+      gap: 20px;
+    }
+
+    .menu a {
+      background-color: #fff;
+      color: #333;
+      padding: 20px;
+      width: 180px;
+      border-radius: 15px;
+      text-decoration: none;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+      font-size: 1.2em;
+      transition: transform 0.2s, background 0.3s;
+    }
+
+    .menu a:hover {
+      background-color: #ffeb3b;
+      transform: scale(1.05);
+    }
+
+    .emoji {
+      font-size: 2em;
+      display: block;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+<h1>🎉 ألعب وأتعلم 🎉</h1>
+
+  <div class="menu">
+    <a href="#"><span class="emoji">🔠</span>تعلم الحروف</a>
+    <a href="#"><span class="emoji">🔢</span>تعلم الأرقام</a>
+    <a href="#"><span class="emoji">🎨</span>تعلم الألوان</a>
+    <a href="#"><span class="emoji">🐶</span>أسماء الحيوانات</a>
+    <a href="#"><span class="emoji">🧩</span>ألعاب تفاعلية</a>
+  </div>
+
+</body>
+</html>

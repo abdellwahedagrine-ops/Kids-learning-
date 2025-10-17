@@ -1,0 +1,232 @@
+الحروف 
+ 
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>حروف ممتعة</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #f0f8ff;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #ff69b4;
+    }
+
+    .letter-card {
+      display: inline-block;
+      background: #fff;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      margin: 10px;
+      padding: 20px;
+      width: 120px;
+      transition: transform 0.3s;
+    }
+
+    .letter-card:hover {
+      transform: scale(1.1);
+    }
+
+    .letter {
+      font-size: 50px;
+      font-weight: bold;
+      color: #4b0082;
+      margin-bottom: 10px;
+    }
+
+    .word {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>تعلم الحروف العربية</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #f0f8ff;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #ff69b4;
+      margin-bottom: 30px;
+    }
+    .letter-card {
+      display: inline-block;
+      background: #fff;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      margin: 10px;
+      padding: 20px;
+      width: 120px;
+      transition: transform 0.3s;
+    }
+    .letter-card:hover {
+      transform: scale(1.1);
+    }
+    .letter {
+      font-size: 50px;
+      font-weight: bold;
+      color: #4b0082;
+      margin-bottom: 10px;
+    }
+    .word {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>تعلم الحروف العربية</h1>
+
+  <div class="letter-card" style="background-color: #ffe4e1;">
+    <div class="letter">أ</div>
+    <div class="word">أسد</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #e0ffff;">
+    <div class="letter">ب</div>
+    <div class="word">بطة</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #fafad2;"><div class="letter">ت</div>
+    <div class="word">تفاح</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #d1ffd1;">
+    <div class="letter">ث</div>
+    <div class="word">ثعلب</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffe4b5;">
+    <div class="letter">ج</div>
+    <div class="word">جمل</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffb6c1;">
+    <div class="letter">ح</div>
+    <div class="word">حصان</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #add8e6;">
+    <div class="letter">خ</div>
+    <div class="word">خروف</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffd700;">
+    <div class="letter">د</div>
+    <div class="word">ديك</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #e6e6fa;">
+    <div class="letter">ذ</div>
+    <div class="word">ذئب</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffe4e1;">
+    <div class="letter">ر</div>
+    <div class="word">رمان</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #e0ffff;">
+    <div class="letter">ز</div>
+    <div class="word">زرافة</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #fafad2;">
+    <div class="letter">س</div><div class="word">سمكة</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #d1ffd1;">
+    <div class="letter">ش</div>
+    <div class="word">شمعة</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffe4b5;">
+    <div class="letter">ص</div>
+    <div class="word">صقر</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffb6c1;">
+    <div class="letter">ض</div>
+    <div class="word">ضفدع</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #add8e6;">
+    <div class="letter">ط</div>
+    <div class="word">طاووس</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffd700;">
+    <div class="letter">ظ</div>
+    <div class="word">ظرف</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #e6e6fa;">
+    <div class="letter">ع</div>
+    <div class="word">عصفور</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffe4e1;">
+    <div class="letter">غ</div>
+    <div class="word">غزال</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #e0ffff;">
+    <div class="letter">ف</div>
+    <div class="word">فيل</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #fafad2;">
+    <div class="letter">ق</div>
+    <div class="word">قمر</div>
+  </div><div class="letter-card" style="background-color: #d1ffd1;">
+    <div class="letter">ك</div>
+    <div class="word">كتاب</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffe4b5;">
+    <div class="letter">ل</div>
+    <div class="word">ليمون</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffb6c1;">
+    <div class="letter">م</div>
+    <div class="word">موز</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #add8e6;">
+    <div class="letter">ن</div>
+    <div class="word">نمر</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffd700;">
+    <div class="letter">ه</div>
+    <div class="word">هدهد</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #e6e6fa;">
+    <div class="letter">و</div>
+    <div class="word">وردة</div>
+  </div>
+
+  <div class="letter-card" style="background-color: #ffe4e1;">
+    <div class="letter">ي</div>
+    <div class="word">يقطين</div>
+  </div>
+
+</body>
+</html>
